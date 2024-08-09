@@ -46,7 +46,7 @@ Team Member 2:
 _Include a comprehensive summary of all important information about your project solution here._
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
-[Task3](https://github.com/Pacomegnt/QML-for-Conspicuity-Detection-in-Production/blob/main/Task3_womanium_project.ipynb)
+[Task3](https://github.com/Pacomegnt/QML-for-Conspicuity-Detection-in-Production/blob/main/Task3_womanium_project.ipynb) <br>
 [Task4](https://github.com/Pacomegnt/QML-for-Conspicuity-Detection-in-Production/blob/main/Task4_womanium_project.ipynb)
 
 ### Project Presentation Deck:
