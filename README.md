@@ -52,4 +52,5 @@ All necessary code files and any additional information required to judge your p
 
 ### Project Presentation Deck:
 _Link a 5min. presentation recording or deck here._
+[Project Presentation](https://github.com/Pacomegnt/QML-for-Conspicuity-Detection-in-Production/blob/main/WQ24_final_project_presentation.pptx)
 
